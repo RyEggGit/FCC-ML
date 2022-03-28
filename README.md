@@ -8,3 +8,8 @@ Projects for Free Code Camp Certification
   - Clean data to only use relevant reveiws
   - Create a KNN model and also implemented a function that returns 5 recommendes books based of the book you input
   
+2. Predict Health Care Costs using Linear Regression 🏥💸 
+  - Used a dataset from FCC that contained over 1300 different patients insurance with 7 different demographics for each patient
+  - Cleaned data and split into train and test data sets
+  - Solved problem using NN and was able to improve network by anyalising loss
+  - Was able to predict Health Care Costs
