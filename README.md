@@ -12,7 +12,7 @@ Projects for Free Code Camp Certification
   - Used a dataset from FCC that contained over 1300 different patients insurance with 7 different demographics for each patient
   - Cleaned data and split into train and test data sets
   - Solved problem using NN and was able to improve network by anyalising loss
-  - Was able to predict Health Care Costs Insurance Costs within $1904
+  - Was able to predict Health Care Costs Insurance Costs within $1840
 
 3. Cat and Dog Classifier using Convelutional Neural Networ😺🐶
   - Used a dataset from FCC that contained over 4000 images of cats and dogs 
