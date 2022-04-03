@@ -27,4 +27,5 @@ Projects for Free Code Camp Certification
 5. Developed Rock Paper Scissors Algorithm 🪨📃✂️
   -Able to create algorthim based counting the frequnecy of patterns that 
   the opponent plays
+  (Not Shown on git hub as doesn't ML models)
  
