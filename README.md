@@ -17,7 +17,7 @@ Projects for Free Code Camp Certification
 3. Cat and Dog Classifier using Convelutional Neural Networ😺🐶
   - Used a dataset from FCC that contained over 4000 images of cats and dogs 
   - Cleaned and used Data Augmentation to transform dataset to over _______ images
-  - Was able to create a model that could predict a cat/dog with a 68% accuracy
+  - Was able to create a model that could predict a cat/dog with a 70% accuracy
  
 4. "Ham or Spam" Text Message Classifier using Sentimental Anyalsis 📩✅ 
   - Used a dataset from FCC with over 4000 label text messages
