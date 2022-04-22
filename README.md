@@ -29,4 +29,4 @@ Projects for Free Code Camp Certification
   the opponent plays
   (Not Shown on git hub as doesn't ML models)
  
-https://github.com/RyEggGit/FCC-ML/blob/main/Certification.png
+![alt text](https://github.com/RyEggGit/FCC-ML/blob/main/Certification.pngg)
